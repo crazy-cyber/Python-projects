@@ -229,6 +229,3 @@ if __name__ == '__main__':
             except Exception as e:
                 print(e)    
                 speak('sorry boss ,i am unable to send this mail')
-
-
-# https://www.geeksforgeeks.org/voice-assistant-using-python/
